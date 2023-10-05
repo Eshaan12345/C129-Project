@@ -1,0 +1,20 @@
+.heading
+{
+    width: 100%;
+}
+
+canvas
+{
+    border: solid 5px beige;
+    background-color: black;
+}
+
+span
+{
+    color: black;
+}
+
+body
+{
+    background-size: cover;
+}
